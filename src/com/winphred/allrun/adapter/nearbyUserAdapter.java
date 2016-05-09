@@ -9,7 +9,7 @@ public class nearbyUserAdapter extends BaseAdapter {
 	@Override
 	public int getCount() {
 		// TODO Auto-generated method stub
-		return 100;
+		return 99878;
 	}
 
 	@Override
